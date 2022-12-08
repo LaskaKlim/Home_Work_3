@@ -1,0 +1,15 @@
+C:\Users\Fushigi\Desktop\Семинары с#\sem_3\less\bin\Debug\net6.0\less.exe
+C:\Users\Fushigi\Desktop\Семинары с#\sem_3\less\bin\Debug\net6.0\less.deps.json
+C:\Users\Fushigi\Desktop\Семинары с#\sem_3\less\bin\Debug\net6.0\less.runtimeconfig.json
+C:\Users\Fushigi\Desktop\Семинары с#\sem_3\less\bin\Debug\net6.0\less.dll
+C:\Users\Fushigi\Desktop\Семинары с#\sem_3\less\bin\Debug\net6.0\less.pdb
+C:\Users\Fushigi\Desktop\Семинары с#\sem_3\less\obj\Debug\net6.0\less.csproj.AssemblyReference.cache
+C:\Users\Fushigi\Desktop\Семинары с#\sem_3\less\obj\Debug\net6.0\less.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fushigi\Desktop\Семинары с#\sem_3\less\obj\Debug\net6.0\less.AssemblyInfoInputs.cache
+C:\Users\Fushigi\Desktop\Семинары с#\sem_3\less\obj\Debug\net6.0\less.AssemblyInfo.cs
+C:\Users\Fushigi\Desktop\Семинары с#\sem_3\less\obj\Debug\net6.0\less.csproj.CoreCompileInputs.cache
+C:\Users\Fushigi\Desktop\Семинары с#\sem_3\less\obj\Debug\net6.0\less.dll
+C:\Users\Fushigi\Desktop\Семинары с#\sem_3\less\obj\Debug\net6.0\refint\less.dll
+C:\Users\Fushigi\Desktop\Семинары с#\sem_3\less\obj\Debug\net6.0\less.pdb
+C:\Users\Fushigi\Desktop\Семинары с#\sem_3\less\obj\Debug\net6.0\less.genruntimeconfig.cache
+C:\Users\Fushigi\Desktop\Семинары с#\sem_3\less\obj\Debug\net6.0\ref\less.dll
